@@ -80,7 +80,7 @@ Each program has an associated 77,777 byte long memory wherein each byte can be 
 
 ### Operations
 
-There are 8 keywords (or operations to be very specific) each with a designated task:
+There are 10 keywords (or operations to be very specific) each with a designated task:
 
 | Keyword | Behavior |
 |:---:|:---:|
