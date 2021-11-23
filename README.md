@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center">
 <img src="./img.png" alt="Lee">
-</div>
 
 # Lee-lang
 
